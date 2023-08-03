@@ -12,8 +12,8 @@ yarn build # uses vercel/pkg to build binary
 Usage: ec-wallet [options] [command]
 
 ### Options:
-  -V, --version       output the version number
-  -h, --help          display help for command
+* -V, --version       output the version number
+* -h, --help          display help for command
 
 ### Commands:
 * generate [options]  Generate a wallet public and private keys
